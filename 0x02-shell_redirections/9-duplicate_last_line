@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n 1 | echo "iacta" > iacta
+tail -1 < iacta >> iacta
