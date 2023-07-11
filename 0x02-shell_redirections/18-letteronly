@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l [:upper:] /etc/ssh/sshd_config 
+wc -l [[:upper:]] /etc/ssh/sshd_config 
